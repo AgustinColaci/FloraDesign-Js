@@ -1,46 +1,28 @@
 {
-        "productos":[
-        {    
-            "nombre":"Buzo Timothee",
-            "tipo":"buzo",
-            "color":"Negro",
-            "precio":1500,
-            "img":"img/not.jpg"
-            },
-        {
-            "nombre":"Remera Timothee",
-            "tipo":"remera",
-            "color":"Blanco",
-            "precio":900,
-            "img":"img/not.jpg"
-            },
-        {
-            "nombre":"Gorra Dezahrt",
-            "tipo":"gorra",
-            "color":"Negro",
-            "precio":600,
-            "img":"img/not.jpg"
-            },
-        {
-            "nombre":"Remera Oversize",
-            "tipo":"remera",
-            "color":"Blanco",
-            "precio":1300,
-            "img":"img/not.jpg"
-            },
-        {
-            "nombre":"Campera Timo",
-            "tipo":"campera",
-            "color":"Gris",
-            "precio":1600,
-            "img":"img/not.jpg"
-            },
-        {
-            "nombre":"Musculosa Dzahrt",
-            "tipo":"remera",
-            "color":"Negro",
-            "precio":850,
-            "img":"img/not.jpg"
-        }
-        ]
+        "productos":[        
+            {
+             "nombre":"Cuaderno A4",
+             "precio":750,
+             "img":"img/cuaderno-a4.png",
+             }, {
+             "nombre":"Cuaderno A5",
+             "precio":650,
+             "img":"img/cuaderno-a5.png",
+             }, {
+             "nombre":"Cuaderno A6",
+             "precio":500,
+             "img":"img/cuaderno-a6.png",
+             }, {
+             "nombre":"Anotador",
+             "precio":150,
+             "img":"img/anotador.png",
+             }, {
+             "nombre":"Agenda",
+             "precio":500,
+             "img":"img/agenda.png",
+             }, {
+             "nombre":"Cuaderno Temático",
+             "precio":750,
+             "img":"img/tematico.png",
+             }, ]
 }
